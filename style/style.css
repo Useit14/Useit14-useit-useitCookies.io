@@ -1,0 +1,36 @@
+html,body{
+    padding: 0;
+    margin: 0;
+
+}
+.mainFlex{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    
+}
+.inputStyle{
+    margin-top: 3%;
+    
+}
+#loginStyle{
+   
+}
+#passwordStyle{
+   
+}
+#ageStyle{
+   
+}
+.formStyle{
+    margin-top: 3%;
+   
+}
+.hidden{
+    display: none;
+    background-color: red;
+    
+}
+.block{
+    display: block;
+}
